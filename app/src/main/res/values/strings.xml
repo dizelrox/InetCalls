@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InetCalls</string>
+    <string name="action_settings">Settings</string>
+    //main screen
+    <string name="login_text_view">Login</string>
+    <string name="passwrd_text_view">Password</string>
+    <string name="login_hint_text_view">Login here</string>
+    <string name="passwrd_hint_text_view">Password here</string>
+    <string name="login_button_text">Login</string>
+    <string name="register_button_text">Register</string>
+
+    //registration window    <string name="registartion_window_text">Quick registration process</string>
+    <string name="email_text_view">Email</string>
+    <string name="email_hint_text_view">Email here.</string>
+    <string name="country_text_view">Country</string>
+
+    <string-array name="countries_string_array">
+        <item>USA</item>
+        <item>Israel</item>
+        <item>Russia</item>
+        <item>Ukraine</item>
+    </string-array>
+
+    //call window
+    <string name="title_activity_call">CallActivity</string>
+    <string name="country_code">Country code</string>
+    <string name="region_code">Region code</string>
+    <string name="phone_number_hint">Phone number</string>
+    <string name="call_button_text">Call</string>
+    <string name="menu_history">Last calls</string>
+    <string name="title_activity_call_histroy">Call Histroy</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
